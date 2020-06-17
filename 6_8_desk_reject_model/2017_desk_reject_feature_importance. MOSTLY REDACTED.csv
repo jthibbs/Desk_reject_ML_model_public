@@ -1,0 +1,19 @@
+feature_score,word_or_nontext_var,main_var,combined,feature_number
+0.11167698,CATEGORY_Research_Articles,non_text,non_text: CATEGORY_Research_Articles,268
+0.056423936,dayofweek_fri,non_text,non_text: dayofweek_fri,311
+0.054289706,COUNTRY_UNITED STATES,non_text,non_text: COUNTRY_UNITED STATES,298
+0.037379995,dayofweek_mon,non_text,non_text: dayofweek_mon,307
+0.034244526,dayofweek_sat,non_text,non_text: dayofweek_sat,312
+0.034161318,dayofweek_wed,non_text,non_text: dayofweek_wed,309
+0.032929257,dayofweek_thur,non_text,non_text: dayofweek_thur,310
+0.032914747,dayofweek_sun,non_text,non_text: dayofweek_sun,313
+0.027113426,dayofweek_tue,non_text,non_text: dayofweek_tue,308
+0.02526413,here,ABSTRACT_TEXT,ABSTRACT_TEXT: here,94
+0.021138739,research,FUNDER_NAME,FUNDER_NAME: research,261
+0.019737374,both,ABSTRACT_TEXT,ABSTRACT_TEXT: both,51
+0.018590406,prof,PTITLE,PTITLE: prof,240
+0.017135944,suggest,ABSTRACT_TEXT,ABSTRACT_TEXT: suggest,181
+0.015562983,in,SHORT_TITLE,SHORT_TITLE: in,26
+0.01412062,however,ABSTRACT_TEXT,ABSTRACT_TEXT: however,98
+,,,,
+THE REST OF THE MODEL IS LEFT OUT DUE TO CONFIDENTIALITY,,,,

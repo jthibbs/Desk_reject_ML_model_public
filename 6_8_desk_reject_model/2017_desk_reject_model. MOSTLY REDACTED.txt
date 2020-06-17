@@ -1,0 +1,118 @@
+booster[0]:
+0:[""non_text: CATEGORY_Research_Articles"" < 0.5] yes=1,no=2,missing=1,gain=73582.4688,cover=113020.5
+	1:[""non_text: COUNTRY_UNITED STATES"" < 0.5] yes=3,no=4,missing=3,gain=39196.9531,cover=94902.5
+		3:[""ABSTRACT_TEXT: these"" < 0.5] yes=7,no=8,missing=7,gain=27019.6055,cover=86753.25
+			7:[""ABSTRACT_TEXT: both"" < 0.5] yes=15,no=16,missing=15,gain=15041.3555,cover=68161.25
+				15:[""ABSTRACT_TEXT: however"" < 0.5] yes=31,no=32,missing=31,gain=10005.5273,cover=60181.5
+					31:[""non_text: dayofweek_tue"" < 0.5] yes=59,no=60,missing=59,gain=7141.42188,cover=52804.25
+						59:leaf=0.379241228,cover=49190.25
+						60:leaf=-0.0576763526,cover=3614
+					32:[""non_text: CATEGORY_Research_Article"" < 0.5] yes=61,no=62,missing=61,gain=1905.11499,cover=7377.25
+						61:leaf=0.445738673,cover=703
+						62:leaf=-0.0731433257,cover=6674.25
+				16:[""non_text: CATEGORY_Research_Article"" < 0.5] yes=33,no=34,missing=33,gain=1896.20447,cover=7979.75
+					33:[""non_text: CATEGORY_clinical_trial"" < 0.5] yes=63,no=64,missing=63,gain=1299.09412,cover=730
+						63:leaf=0.582617104,cover=516.75
+						64:leaf=-0.296149373,cover=213.25
+					34:[""ABSTRACT_TEXT: we"" < 0.5] yes=65,no=66,missing=65,gain=1281.34668,cover=7249.75
+						65:leaf=-0.0552360006,cover=3632.5
+						66:leaf=-0.307482898,cover=3617.25
+			8:[""non_text: CATEGORY_Research_Article"" < 0.5] yes=17,no=18,missing=17,gain=6176.40137,cover=18592
+				17:[""non_text: CATEGORY_clinical_trial"" < 0.5] yes=35,no=36,missing=35,gain=1511.99268,cover=1348.5
+					35:[""DTITLE: review"" < 0.5] yes=67,no=68,missing=67,gain=23.7470703,cover=1172.5
+						67:leaf=0.590414524,cover=1157
+						68:leaf=0.200000018,cover=15.5
+					36:[""ABSTRACT_TEXT: on"" < 7.5] yes=69,no=70,missing=69,gain=22.7583771,cover=176
+						69:leaf=-0.37068966,cover=173
+						70:leaf=0.375,cover=3
+				18:[""ABSTRACT_TEXT: we"" < 0.5] yes=37,no=38,missing=37,gain=3089.29541,cover=17243.5
+					37:[""DTITLE: in"" < 0.5] yes=71,no=72,missing=71,gain=1616.94946,cover=7436.25
+						71:leaf=0.0801729262,cover=3757.75
+						72:leaf=-0.199592337,cover=3678.5
+					38:[""PTITLE: dr"" < 0.5] yes=73,no=74,missing=73,gain=1060.16504,cover=9807.25
+						73:leaf=-0.18920432,cover=3750.5
+						74:leaf=-0.392249614,cover=6056.75
+		4:[""non_text: ALLAUTHORS_ratio_count"" < 1.5] yes=9,no=10,missing=9,gain=155.408203,cover=8149.25
+			9:[""non_text: SECTIONNAME_not_filled"" < 0.5] yes=19,no=20,missing=19,gain=302.05127,cover=1696.25
+				19:[""non_text: CATEGORY_Research_Article"" < 0.5] yes=39,no=40,missing=39,gain=829.886108,cover=1029.5
+					39:[""non_text: CATEGORY_clinical_trial"" < 0.5] yes=75,no=76,missing=75,gain=26.8245544,cover=91
+						75:leaf=0.549720705,cover=88.5
+						76:leaf=-0.342857182,cover=2.5
+					40:[""non_text: ALLAUTHORS_ratio_count"" < 0.5] yes=77,no=78,missing=77,gain=191.167969,cover=938.5
+						77:leaf=-0.195151523,cover=246.5
+						78:leaf=-0.503896117,cover=692
+				20:leaf=-0.599101484,cover=666.75
+			10:[""non_text: CATEGORY_Research_Article"" < 0.5] yes=21,no=22,missing=21,gain=268.029297,cover=6453
+				21:[""non_text: CATEGORY_clinical_trial"" < 0.5] yes=41,no=42,missing=41,gain=439.158234,cover=184
+					41:[""non_text: SECTIONNAME_not_filled"" < 0.5] yes=79,no=80,missing=79,gain=21.9469604,cover=65
+						79:leaf=0.46875003,cover=63
+						80:leaf=-0.400000036,cover=2
+					42:[""non_text: DEPARTMENT_num_characters"" < 52] yes=81,no=82,missing=81,gain=5.68029785,cover=119
+						81:leaf=-0.5423581,cover=113.5
+						82:leaf=-0.184615403,cover=5.5
+				22:[""ABSTRACT_TEXT: review"" < 0.5] yes=43,no=44,missing=43,gain=39.828125,cover=6269
+					43:[""ABSTRACT_TEXT: authors"" < 4.5] yes=83,no=84,missing=83,gain=37.5546875,cover=6107.75
+						83:leaf=-0.559703529,cover=6103.75
+						84:leaf=0.300000012,cover=4
+					44:[""ABSTRACT_TEXT: articles"" < 5.5] yes=85,no=86,missing=85,gain=20.1264343,cover=161.25
+						85:leaf=-0.415962458,cover=158.75
+						86:leaf=0.342857182,cover=2.5
+	2:[""non_text: ALLAUTHORS_ratio_count"" < 0.5] yes=5,no=6,missing=5,gain=293.730469,cover=18118
+		5:[""ABSTRACT_TEXT: results"" < 0.5] yes=11,no=12,missing=11,gain=119.516266,cover=327.5
+			11:[""ABSTRACT_TEXT: using"" < 0.5] yes=23,no=24,missing=23,gain=110.835236,cover=204.25
+				23:[""ABSTRACT_TEXT: study"" < 0.5] yes=45,no=46,missing=45,gain=83.7568512,cover=159.5
+					45:[""ABSTRACT_TEXT: species"" < 0.5] yes=87,no=88,missing=87,gain=47.4051247,cover=124
+						87:leaf=0.167256638,cover=112
+						88:leaf=-0.438461542,cover=12
+					46:[""non_text: INSTITUTE_num_characters"" < 30.5] yes=89,no=90,missing=89,gain=11.8268509,cover=35.5
+						89:leaf=-0.527999997,cover=24
+						90:leaf=-0.144000009,cover=11.5
+				24:[""ABSTRACT_TEXT: published"" < 0.5] yes=47,no=48,missing=47,gain=0.279022217,cover=44.75
+					47:[""non_text: INSTITUTE_num_characters"" < 3.5] yes=91,no=92,missing=91,gain=0.220626831,cover=42.5
+						91:leaf=-0.150000006,cover=1
+						92:leaf=-0.557647109,cover=41.5
+					48:[""ABSTRACT_TEXT: which"" < 0.5] yes=93,no=94,missing=93,gain=0.854700804,cover=2.25
+						93:leaf=-0,cover=1
+						94:leaf=-0.333333373,cover=1.25
+			12:[""ABSTRACT_TEXT: soil"" < 14] yes=25,no=26,missing=25,gain=14.8598633,cover=123.25
+				25:[""ABSTRACT_TEXT: medicine"" < 1.5] yes=49,no=50,missing=49,gain=2.96688843,cover=122
+					49:[""DEPARTMENT: college of"" < 0.5] yes=95,no=96,missing=95,gain=0.507324219,cover=121
+						95:leaf=-0.525799632,cover=116.25
+						96:leaf=-0.286956549,cover=4.75
+					50:leaf=-0,cover=1
+				26:leaf=0.333333373,cover=1.25
+		6:[""PTITLE: dr"" < 0.5] yes=13,no=14,missing=13,gain=73.8359375,cover=17790.5
+			13:[""PTITLE: prof"" < 0.5] yes=27,no=28,missing=27,gain=71.7294922,cover=4897.75
+				27:[""ABSTRACT_TEXT: these"" < 0.5] yes=51,no=52,missing=51,gain=77.125,cover=3302
+					51:[""ABSTRACT_TEXT: study"" < 0.5] yes=97,no=98,missing=97,gain=92.4575195,cover=1952.25
+						97:leaf=-0.394168645,cover=950.75
+						98:leaf=-0.526384056,cover=1001.5
+					52:[""ABSTRACT_TEXT: research"" < 3.5] yes=99,no=100,missing=99,gain=19.0463867,cover=1349.75
+						99:leaf=-0.559412777,cover=1344.25
+						100:leaf=-0,cover=5.5
+				28:[""ALL_AUTHOR_CONTRIBUTOR_ROLES: editing"" < 0.5] yes=53,no=54,missing=53,gain=13.487793,cover=1595.75
+					53:[""ABSTRACT_TEXT: medicine"" < 2.5] yes=101,no=102,missing=101,gain=1.57470703,cover=1594.75
+						101:leaf=-0.581367671,cover=1593
+						102:leaf=-0.163636371,cover=1.75
+					54:leaf=0.300000012,cover=1
+			14:[""ALL_AUTHOR_CONTRIBUTOR_ROLES: writing"" < 0.5] yes=29,no=30,missing=29,gain=37.3164063,cover=12892.75
+				29:[""non_text: COUNTRY_CHINA"" < 0.5] yes=55,no=56,missing=55,gain=30.7226563,cover=12883
+					55:[""ABSTRACT_TEXT: we"" < 0.5] yes=103,no=104,missing=103,gain=9.40234375,cover=10396.25
+						103:leaf=-0.560697675,cover=2579
+						104:leaf=-0.585380375,cover=7817.25
+					56:[""non_text: ALLAUTHORS_ratio_count"" < 1.5] yes=105,no=106,missing=105,gain=36.0952148,cover=2486.75
+						105:leaf=-0.339589447,cover=84.25
+						106:leaf=-0.546952426,cover=2402.5
+				30:[""ABSTRACT_TEXT: were"" < 1.5] yes=57,no=58,missing=57,gain=9.40428066,cover=9.75
+					57:[""ABSTRACT_TEXT: study"" < 0.5] yes=107,no=108,missing=107,gain=2.85024118,cover=4.75
+						107:leaf=0.400000036,cover=3.5
+						108:leaf=-0.0666666701,cover=1.25
+					58:[""DTITLE: review"" < 0.5] yes=109,no=110,missing=109,gain=3.5333333,cover=5
+						109:leaf=-0.360000014,cover=4
+						110:leaf=0.150000006,cover=1
+booster[1]:
+0:[""non_text: CATEGORY_Research_Articles"" < 0.5] yes=1,no=2,missing=1,gain=39454.9102,cover=108787.68
+	1:[""SHORT_TITLE: in"" < 0.5] yes=3,no=4,missing=3,gain=23093.627,cover=92012.6797
+
+
+THE REST OF THE MODEL IS LEFT OUT DUE TO CONFIDENTIALITY
